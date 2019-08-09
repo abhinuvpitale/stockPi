@@ -1,0 +1,1 @@
+STOCK_FILE = "stocks.json"
